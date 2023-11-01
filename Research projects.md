@@ -1,4 +1,5 @@
-# 2023/10/21
+~~# 2023/10/21~~
+# 2023/11/01
 ### NHGP
 * When finish RW_KRR and MSE of SK, then do this, need to finish before next spring
 
