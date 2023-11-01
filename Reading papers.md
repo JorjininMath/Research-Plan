@@ -4,7 +4,11 @@
 * Robust Simulation Optimization with Stratification
 
 ## 2
-* Sparse Representer Theorems for Learning in Reproducing Kernel Banach Spaces
+* Sparse Representer Theorems for Learning in Reproducing Kernel Banach Spaces (2023)
+  * Sparse representer theorem for minimum norm interpolation (MNI) and regression problems.
+  * Next: Finish reading this paper, and see previous paper(2009)
+* Reproducing Kernel Banach Spaces for Machine Learning (2009)
+  
 
 ## 3
 * Divide and Conquer Kernel Ridge Regression: A Distributed Algorithm with Minimax Optimal Rates
