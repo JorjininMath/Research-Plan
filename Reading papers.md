@@ -7,8 +7,8 @@
 ## 2
 * Sparse Representer Theorems for Learning in Reproducing Kernel Banach Spaces (2023)
   * Sparse representer theorem for minimum norm interpolation (MNI) and regression problems.
-  ~~* Next: Finish reading this paper, and see previous paper(2009)~~
-~~* Reproducing Kernel Banach Spaces for Machine Learning (2009)~~
+  * ~~Next: Finish reading this paper, and see previous paper(2009)~~
+* ~~Reproducing Kernel Banach Spaces for Machine Learning (2009)~~
 * General thinking: What's the contribution of using RKBS? (provides more sparse solutions) How to implement it? Where people use this?
   
 
