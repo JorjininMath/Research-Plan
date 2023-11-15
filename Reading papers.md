@@ -20,3 +20,8 @@
 * On the Equivalence between Kernel Quadrature Rules and Random Feature Expansions
 * On Average-Case Error Bounds for Kernel-Based Bayesian Quadrature
 * Gaussian Quadrature for Kernel Features
+
+## 5
+* Finite-dimensional approximation of Gaussian processes with linear inequality constraints and noisy observations
+* Equivalent between constrained optimal smoothing and Bayesian estimation
+* Gaussian Process Emulators for Computer Experiments with Inequality Constraints
