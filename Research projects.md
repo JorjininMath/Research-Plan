@@ -21,5 +21,5 @@
 * Experiments
   * See $\lambda$ influence
   * ~~Fix totoal budget $B$, see $n$ with error~~
-   * The RMSE still changes with changing of $n$, hence this experiment will not give proper conclusion.
+    * The RMSE still changes with changing of $n$, hence this experiment will not give proper conclusion.
   * Add a GP benchmark function
