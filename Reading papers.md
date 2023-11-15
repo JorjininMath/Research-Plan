@@ -1,5 +1,6 @@
 ~~# 2023/10/21~~
-# 2023/11/01
+~~# 2023/11/01~~
+# 2023/11/15
 ## 1
 * ASTRO-DF: A Class of Adaptive Sampling Trust-Region Algorithms for Derivative-Free Stochastic Optimization
 * Robust Simulation Optimization with Stratification
