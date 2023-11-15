@@ -19,7 +19,8 @@
   * Put theoretical and numerical parts together
   * Implement exponential kernel's results
 * Experiments
-  * See $\lambda$ influence
+  * ~~See $\lambda$ influence~~
+    * $\lambda$ is small, it performs better for Dejong, worse for Griewank. 
   * ~~Fix totoal budget $B$, see $n$ with error~~
     * The RMSE still changes with changing of $n$, hence this experiment will not give proper conclusion.
   * Add a GP benchmark function
