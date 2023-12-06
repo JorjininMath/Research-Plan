@@ -24,5 +24,5 @@
 
 ## 5
 * Finite-dimensional approximation of Gaussian processes with linear inequality constraints and noisy observations
-* Equivalent between constrained optimal smoothing and Bayesian estimation
-* Gaussian Process Emulators for Computer Experiments with Inequality Constraints
+* ~~Equivalent between constrained optimal smoothing and Bayesian estimation~~
+* ~~Gaussian Process Emulators for Computer Experiments with Inequality Constraints~~
