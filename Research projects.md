@@ -20,7 +20,7 @@
   * Put theoretical and numerical parts together
   * Write the handwritthen note first
   * ~~Implement exponential kernel's results~~
-  * Check the proof under the scenario that $\rho_{tau_n}$ has $\tau_n$
+  * Check the proof under the scenario that $\rho_{\tau_n}$ has $\tau_n$
 * Experiments
   * ~~See $\lambda$ influence~~
     * $\lambda$ is small, it performs better for Dejong, worse for Griewank. 
